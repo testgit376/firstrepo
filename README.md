@@ -1,1 +1,3 @@
-# sanrepo
+# maven-project
+
+Simple Maven Project
